@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+user_uploads/
+*.h5
+.env
