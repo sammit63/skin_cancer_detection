@@ -20,5 +20,5 @@ An AI-based web application that classifies skin lesion images as Healthy or Unh
 ```bash
   pip install -r requirements.txt
   streamlit run app.py
----bash
+
 
